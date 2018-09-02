@@ -5,3 +5,4 @@ authors = ["rakeshkky <rakesh.emmadi21c@gmail.com>"]
 
 [dependencies]
 rand = "0.3.14"
+getopts = "0.2"
